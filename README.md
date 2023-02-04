@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on OI.
 - 🌱 I’m currently learning vue.js.
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: [my blog](https://nick-cjyx9.github.io)
+- 📫 How to reach me: [my blog](https://nick-cjyx9.github.io) [bgm](https://bgm.tv/user/cjyx9) [bili](https://space.bilibili.com/418309536)
 - 😄 Pronouns: 菜鸟上路(I'm a noob about programming).
 - ⚡ Fun fact: My last account was banned because something about zzzq😅.Feel pity for my PRs and code.
 
