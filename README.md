@@ -1,4 +1,4 @@
-# 你好，这里是cjyx9的博客！
+# 你好，这里是cjyx9!
 ![avatar](https://thirdqq.qlogo.cn/g?b=sdk&k=Xe3Iv9yyk7ZRpLe6ttWCvg&kti=ZH8KSwAAAAA&s=160&t=1675240325)  
 
 大家好，我是**Nick Chen**，网名**cjyx9**（名字首字母+滚键盘的产物），目前是一个卑微高中生。我从初一开始就有搭建过hexo博客，初三有写过一些shitpost,但是如今才开始在网上记录自己的技术学习和想法，于是认真写下这个about页,今天我还在努力学习,希望能成长一个高手。  
