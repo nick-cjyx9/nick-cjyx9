@@ -20,7 +20,7 @@
 - 喜欢**ACG**，见：[网易云](https://music.163.com/#/user/home?id=1883956486)和[bangumi](https://bgm.tv/user/cjyx9)，尤其是lovelive，**Liyuu**、**阿卡林**、**厂长**、**灯**推
 - 头像是游戏[**《Atri -My Dear Moments-》**](https://bgm.tv/subject/297264)内截的。（galgame入坑作）
 - 自认为不会社交，处理不好和他人的关系
-- 受[《推特机器》](https://book.douban.com/subject/36096594/)影响有意识淡出社交媒体，所以有事找我请email。
+- 受[《推特机器》](https://book.douban.com/subject/36096594/)影响有意识淡出社交媒体。
 - 受[ouuan](https://ouuan.moe/about)大佬影响开始看《三狮》和《看天下》。
 - 有在思考如何将技术与中国传统文化结合，做一个有文化底蕴的项目，如[古诗文网](https://www.gushiwen.cn/)
 - 不怎么打游戏了，娱乐方式主要是看电影或者焊点小东西玩（[单板收音机](https://s2.loli.net/2023/06/06/AQNFejfxkhYHLSd.png)）
