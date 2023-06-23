@@ -5,11 +5,12 @@
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nick-cjyx9&show_icons=true">
 </picture> 
 
-![avatar](https://thirdqq.qlogo.cn/g?b=sdk&k=Xe3Iv9yyk7ZRpLe6ttWCvg&kti=ZH8KSwAAAAA&s=160&t=1675240325)
+- 👨‍🦯I'm **Nick Chen**,also **cjyx9**.
+- 🧑‍🎓I'm an undergraduate senior high student from 🇨🇳
+- 📧E-mail: cjyx9@outlook.com
+- ❓Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
+- ⛹️‍♂️I'm still on the way,wishing to be a master.
 
-I'm **Nick Chen**,also **cjyx9**,an undergraduate senior high student. 
-
-I'm still on the way,wishing to be a master.
 ## Info
 - **Email:** <cjyx9@outlook.com> 或 <cjyx9@foxmail.com>.
 - **Github:** [@cjyx9](https://github.com/nick-cjyx9)
