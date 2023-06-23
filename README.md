@@ -14,4 +14,22 @@ I'm **Nick Chen**，also **cjyx9**,a senior high student.I'm still on the way,wi
   - Javascript
 ## Followers:
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/czy0729">
+        <img src="https://avatars2.githubusercontent.com/u/13514316" width="100px;" alt="czy0729"/>
+      </a>
+      <br />
+      <a href="https://github.com/czy0729">Chan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aquamarine5">
+        <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
+      </a>
+      <br />
+      <a href="https://github.com/aquamarine5">海蓝咕咕鸽</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
