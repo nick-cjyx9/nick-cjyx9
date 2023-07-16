@@ -47,6 +47,20 @@
       <a href="https://github.com/ryanfavour4">Favour ryan Chukwuka</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hglong16">
+        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      </a>
+      <br />
+      <a href="https://github.com/hglong16">Hoang Long</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ari-Qu3sadillas">
+        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="Ari-Qu3sadillas"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ari-Qu3sadillas">Ari Dev</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
       </a>
