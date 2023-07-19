@@ -33,6 +33,13 @@
       <a href="https://github.com/BEPb">Andrej Marinchenko</a>
     </td>
     <td align="center">
+      <a href="https://github.com/faisal-mahamud">
+        <img src="https://avatars2.githubusercontent.com/u/122094919" width="100px;" alt="faisal-mahamud"/>
+      </a>
+      <br />
+      <a href="https://github.com/faisal-mahamud">MD FAISAL MAHAMUD</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/czy0729">
         <img src="https://avatars2.githubusercontent.com/u/13514316" width="100px;" alt="czy0729"/>
       </a>
@@ -47,6 +54,13 @@
       <a href="https://github.com/ryanfavour4">Favour ryan Chukwuka</a>
     </td>
     <td align="center">
+      <a href="https://github.com/EmilianoEmanuelSosa">
+        <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
+      </a>
+      <br />
+      <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
       </a>
@@ -59,6 +73,15 @@
       </a>
       <br />
       <a href="https://github.com/Ari-Qu3sadillas">Ari Dev</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sowodin">
+        <img src="https://avatars2.githubusercontent.com/u/49458298" width="100px;" alt="sowodin"/>
+      </a>
+      <br />
+      <a href="https://github.com/sowodin">Wendell Oliveira da Silva</a>
     </td>
     <td align="center">
       <a href="https://github.com/aquamarine5">
