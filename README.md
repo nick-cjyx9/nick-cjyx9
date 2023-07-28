@@ -69,20 +69,20 @@
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AriDevK">
-        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
-      </a>
-      <br />
-      <a href="https://github.com/AriDevK">Ari Dev</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/sowodin">
         <img src="https://avatars2.githubusercontent.com/u/49458298" width="100px;" alt="sowodin"/>
       </a>
       <br />
       <a href="https://github.com/sowodin">Wendell Oliveira da Silva</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AriDevK">
+        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
+      </a>
+      <br />
+      <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/aquamarine5">
