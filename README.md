@@ -7,13 +7,12 @@
 
 - 👨‍🦯I'm **Nick Chen**,also **cjyx9**.
 - 🧑‍🎓I'm an undergraduate senior high student from 🇨🇳
-- 📧E-mail: cjyx9@outlook.com
+- 📧E-mail: i@nickchen.top
 - ❓Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
 - ⛹️‍♂️I'm still on the way,wishing to be a master.
 - 🏝 I'm currently working on my iles blog 
 
 ## Info
-- **Email:** <cjyx9@outlook.com> 或 <cjyx9@foxmail.com>.
 - **Github:** [@cjyx9](https://github.com/nick-cjyx9)
 - **Bangumi:** [bgm.tv/user/cjyx9](https://bgm.tv/user/cjyx9)
 - **Favorite motto:** 
