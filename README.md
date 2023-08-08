@@ -10,7 +10,7 @@
 - 📧E-mail: i@nickchen.top
 - ❓Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
 - ⛹️‍♂️I'm still on the way,wishing to be a master.
-- 🏝 I'm currently working on my iles blog 
+- 🏝 I'm currently working on a journaling program to promote our diary through LLM.
 
 ## Info
 - **Github:** [@cjyx9](https://github.com/nick-cjyx9)
