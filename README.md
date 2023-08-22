@@ -77,13 +77,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/o77tsen">
-        <img src="https://avatars2.githubusercontent.com/u/88957235" width="100px;" alt="o77tsen"/>
-      </a>
-      <br />
-      <a href="https://github.com/o77tsen">o77tsen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
