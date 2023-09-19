@@ -47,13 +47,6 @@
       <a href="https://github.com/czy0729">Chan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EmilianoEmanuelSosa">
-        <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
-      </a>
-      <br />
-      <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ryanfavour4">
         <img src="https://avatars2.githubusercontent.com/u/87520763" width="100px;" alt="ryanfavour4"/>
       </a>
@@ -74,8 +67,6 @@
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
@@ -83,6 +74,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
