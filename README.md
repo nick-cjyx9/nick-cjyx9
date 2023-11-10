@@ -26,13 +26,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/faisal-mahamud">
-        <img src="https://avatars2.githubusercontent.com/u/122094919" width="100px;" alt="faisal-mahamud"/>
-      </a>
-      <br />
-      <a href="https://github.com/faisal-mahamud">MD FAISAL MAHAMUD</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sb-child">
         <img src="https://avatars2.githubusercontent.com/u/55868015" width="100px;" alt="sb-child"/>
       </a>
@@ -74,8 +67,6 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
