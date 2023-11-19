@@ -40,13 +40,6 @@
       <a href="https://github.com/czy0729">Chan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ryanfavour4">
-        <img src="https://avatars2.githubusercontent.com/u/87520763" width="100px;" alt="ryanfavour4"/>
-      </a>
-      <br />
-      <a href="https://github.com/ryanfavour4">Favour ryan Chukwuka</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
       </a>
