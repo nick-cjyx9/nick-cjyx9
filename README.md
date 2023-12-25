@@ -40,6 +40,13 @@
       <a href="https://github.com/czy0729">Chan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/EmilianoEmanuelSosa">
+        <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
+      </a>
+      <br />
+      <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
       </a>
