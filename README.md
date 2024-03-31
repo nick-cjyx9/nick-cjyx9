@@ -26,6 +26,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      </a>
+      <br />
+      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sb-child">
         <img src="https://avatars2.githubusercontent.com/u/55868015" width="100px;" alt="sb-child"/>
       </a>
@@ -67,6 +74,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
