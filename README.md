@@ -1,9 +1,4 @@
 # Hi there! 👋
-<br>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nick-cjyx9&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nick-cjyx9&show_icons=true">
-</picture> 
 
 - 👨‍🦯I'm **Nick Chen**,also **cjyx9**.
 - 🧑‍🎓I'm an undergraduate senior high student from 🇨🇳
