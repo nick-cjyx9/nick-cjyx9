@@ -79,6 +79,13 @@
       <br />
       <a href="https://github.com/aquamarine5">海蓝咕咕鸽</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/HushedAlways">
+        <img src="https://avatars2.githubusercontent.com/u/159624870" width="100px;" alt="HushedAlways"/>
+      </a>
+      <br />
+      <a href="https://github.com/HushedAlways">HushedAlways</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
