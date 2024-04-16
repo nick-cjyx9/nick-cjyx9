@@ -84,7 +84,7 @@
         <img src="https://avatars2.githubusercontent.com/u/159624870" width="100px;" alt="HushedAlways"/>
       </a>
       <br />
-      <a href="https://github.com/HushedAlways">HushedAlways</a>
+      <a href="https://github.com/HushedAlways">Chen Linyun</a>
     </td>
   </tr>
 </table>
