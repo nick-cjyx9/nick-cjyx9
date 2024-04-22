@@ -73,6 +73,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/NeKoOuO">
+        <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
+      </a>
+      <br />
+      <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
       </a>
