@@ -5,14 +5,14 @@
 - 📧E-mail: i@nickchen.top
 - ❓Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
 - ⛹️‍♂️I'm still on the way,wishing to be a master.
-- 🤜I'm currently working on algorithm.
+- 🤜I'm currently working on web developing.
 
 
 ## Info
 - **Github:** [@cjyx9](https://github.com/nick-cjyx9)
 - **Bangumi:** [bgm.tv/user/cjyx9](https://bgm.tv/user/cjyx9)
 - **Favorite motto:** 
-> 饱食终日，无所用心，难矣哉！——《论语·阳货》
+> Let the world change you and you can change the world
 - **Languages:**
 - - python
   - C++
