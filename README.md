@@ -57,12 +57,21 @@
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
+      <a href="https://github.com/EmilianoEmanuelSosa">
+        <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
+      </a>
+      <br />
+      <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
       </a>
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/powerfulyang">
         <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
@@ -70,8 +79,6 @@
       <br />
       <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
