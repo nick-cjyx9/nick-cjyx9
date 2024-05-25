@@ -114,6 +114,13 @@
       <br />
       <a href="https://github.com/HushedAlways">陈琳匀</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/COSA-Project">
+        <img src="https://avatars2.githubusercontent.com/u/135787079" width="100px;" alt="COSA-Project"/>
+      </a>
+      <br />
+      <a href="https://github.com/COSA-Project">Hanze</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
