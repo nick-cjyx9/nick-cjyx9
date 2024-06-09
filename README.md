@@ -4,8 +4,8 @@
 - 🧑‍🎓I'm an undergraduate senior high student from 🇨🇳
 - 📧E-mail: i@nickchen.top
 - ❓Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
-- ⛹️‍♂️I'm still on the way,wishing to be a master.
-- 🤜I'm currently working on web developing.
+- ⛹️‍♂️I'm still on the way, wishing to be a master.
+- 🤜I'm currently working on School final exam.
 
 
 ## Info
@@ -13,10 +13,11 @@
 - **Bangumi:** [bgm.tv/user/cjyx9](https://bgm.tv/user/cjyx9)
 - **Favorite motto:** 
 > Let the world change you and you can change the world
-- **Languages:**
-- - python
-  - C++
-  - Javascript
+- **Tech Stack**
+  
+  ![My Skills](https://skillicons.dev/icons?i=vue,js,ts,python,astro,workers)
+
+
 ## Followers:
 <!--START_SECTION:top-followers-->
 <table>
