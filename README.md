@@ -30,6 +30,13 @@
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
     </td>
     <td align="center">
+      <a href="https://github.com/AbdeenM">
+        <img src="https://avatars2.githubusercontent.com/u/24494653" width="100px;" alt="AbdeenM"/>
+      </a>
+      <br />
+      <a href="https://github.com/AbdeenM">Abdeen Mohamed</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sb-child">
         <img src="https://avatars2.githubusercontent.com/u/55868015" width="100px;" alt="sb-child"/>
       </a>
@@ -64,6 +71,8 @@
       <br />
       <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
@@ -71,8 +80,6 @@
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/powerfulyang">
         <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
@@ -115,6 +122,8 @@
       <br />
       <a href="https://github.com/HushedAlways">陈琳匀</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/COSA-Project">
         <img src="https://avatars2.githubusercontent.com/u/135787079" width="100px;" alt="COSA-Project"/>
