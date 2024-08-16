@@ -23,11 +23,25 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
       <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akirarika">
+        <img src="https://avatars2.githubusercontent.com/u/33272184" width="100px;" alt="akirarika"/>
+      </a>
+      <br />
+      <a href="https://github.com/akirarika">akirarika</a>
     </td>
     <td align="center">
       <a href="https://github.com/sb-child">
@@ -57,6 +71,8 @@
       <br />
       <a href="https://github.com/williambroberts">William Roberts</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -71,8 +87,6 @@
       <br />
       <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
@@ -108,6 +122,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
@@ -122,8 +138,6 @@
       <br />
       <a href="https://github.com/aquamarine5">海蓝咕咕鸽</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HushedAlways">
         <img src="https://avatars2.githubusercontent.com/u/159624870" width="100px;" alt="HushedAlways"/>
