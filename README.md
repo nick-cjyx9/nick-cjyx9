@@ -23,13 +23,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -71,8 +64,6 @@
       <br />
       <a href="https://github.com/williambroberts">William Roberts</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -80,6 +71,8 @@
       <br />
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/EmilianoEmanuelSosa">
         <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
@@ -122,8 +115,6 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
@@ -131,6 +122,8 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
