@@ -88,6 +88,13 @@
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alikia2x">
+        <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
+      </a>
+      <br />
+      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
       </a>
@@ -115,6 +122,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
@@ -122,8 +131,6 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
