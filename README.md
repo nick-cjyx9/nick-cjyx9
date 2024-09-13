@@ -58,12 +58,21 @@
       <a href="https://github.com/czy0729">Chan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lbr77">
+        <img src="https://avatars2.githubusercontent.com/u/53066066" width="100px;" alt="lbr77"/>
+      </a>
+      <br />
+      <a href="https://github.com/lbr77">LiBr</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/williambroberts">
         <img src="https://avatars2.githubusercontent.com/u/123806743" width="100px;" alt="williambroberts"/>
       </a>
       <br />
       <a href="https://github.com/williambroberts">William Roberts</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -71,8 +80,6 @@
       <br />
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EmilianoEmanuelSosa">
         <img src="https://avatars2.githubusercontent.com/u/127326797" width="100px;" alt="EmilianoEmanuelSosa"/>
@@ -115,6 +122,8 @@
       <br />
       <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
@@ -122,8 +131,6 @@
       <br />
       <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
