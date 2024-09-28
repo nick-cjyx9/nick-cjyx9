@@ -128,7 +128,7 @@
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
       <br />
-      <a href="https://github.com/WenqiOfficial">WenqiOfficial</a>
+      <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
     <td align="center">
       <a href="https://github.com/Tikas">
