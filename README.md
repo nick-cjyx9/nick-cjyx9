@@ -26,7 +26,7 @@
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
       <br />
-      <a href="https://github.com/H-K-R">Most Humayra Khanom Rime</a>
+      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
     </td>
     <td align="center">
       <a href="https://github.com/akirarika">
@@ -87,18 +87,18 @@
       <a href="https://github.com/EmilianoEmanuelSosa">Emiliano Sosa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alikia2x">
-        <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
-      </a>
-      <br />
-      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
       </a>
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alikia2x">
+        <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
+      </a>
+      <br />
+      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
     </td>
     <td align="center">
       <a href="https://github.com/NeKoOuO">
