@@ -124,18 +124,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/WenqiOfficial">
-        <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
-      </a>
-      <br />
-      <a href="https://github.com/WenqiOfficial">Chang Li</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
       </a>
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WenqiOfficial">
+        <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
+      </a>
+      <br />
+      <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
     <td align="center">
       <a href="https://github.com/aquamarine5">
