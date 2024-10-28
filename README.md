@@ -94,18 +94,18 @@
       <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hglong16">
-        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
-      </a>
-      <br />
-      <a href="https://github.com/hglong16">Hoang Long</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
       </a>
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hglong16">
+        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      </a>
+      <br />
+      <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
       <a href="https://github.com/EveSunMaple">
