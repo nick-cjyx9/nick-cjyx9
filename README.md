@@ -64,21 +64,14 @@
       <a href="https://github.com/lbr77">LiBr</a>
     </td>
     <td align="center">
-      <a href="https://github.com/williambroberts">
-        <img src="https://avatars2.githubusercontent.com/u/123806743" width="100px;" alt="williambroberts"/>
-      </a>
-      <br />
-      <a href="https://github.com/williambroberts">William Roberts</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
       </a>
       <br />
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -121,8 +114,6 @@
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
@@ -130,6 +121,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
