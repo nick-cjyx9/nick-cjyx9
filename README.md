@@ -73,18 +73,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/alikia2x">
-        <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
-      </a>
-      <br />
-      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
       </a>
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alikia2x">
+        <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
+      </a>
+      <br />
+      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
     </td>
     <td align="center">
       <a href="https://github.com/hglong16">
@@ -94,18 +94,18 @@
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
-      <a href="https://github.com/piisy">
-        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="piisy"/>
-      </a>
-      <br />
-      <a href="https://github.com/piisy">非凡少年</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/piisy">
+        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="piisy"/>
+      </a>
+      <br />
+      <a href="https://github.com/piisy">非凡少年</a>
     </td>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
