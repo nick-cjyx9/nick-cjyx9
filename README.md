@@ -101,11 +101,11 @@
       <a href="https://github.com/EveSunMaple">SunMaple</a>
     </td>
     <td align="center">
-      <a href="https://github.com/powrrfulyang">
-        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powrrfulyang"/>
+      <a href="https://github.com/powerfulyang">
+        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
       </a>
       <br />
-      <a href="https://github.com/powrrfulyang">非凡少年</a>
+      <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
