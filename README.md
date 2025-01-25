@@ -87,18 +87,18 @@
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hglong16">
-        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
-      </a>
-      <br />
-      <a href="https://github.com/hglong16">Hoang Long</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hglong16">
+        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      </a>
+      <br />
+      <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
       <a href="https://github.com/powerfulyang">
