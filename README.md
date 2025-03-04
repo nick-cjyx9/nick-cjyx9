@@ -61,7 +61,7 @@
         <img src="https://avatars2.githubusercontent.com/u/53066066" width="100px;" alt="lbr77"/>
       </a>
       <br />
-      <a href="https://github.com/lbr77">LiBr</a>
+      <a href="https://github.com/lbr77">Borui Li</a>
     </td>
     <td align="center">
       <a href="https://github.com/AriDevK">
