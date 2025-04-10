@@ -64,20 +64,20 @@
       <a href="https://github.com/lbr77">Borui Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AriDevK">
-        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
-      </a>
-      <br />
-      <a href="https://github.com/AriDevK">Ari Dev</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
       </a>
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AriDevK">
+        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
+      </a>
+      <br />
+      <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/alikia2x">
