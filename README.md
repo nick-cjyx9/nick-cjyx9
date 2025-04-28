@@ -22,6 +22,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/peter-kimanzi">
+        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -63,6 +70,8 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lbr77">
         <img src="https://avatars2.githubusercontent.com/u/53066066" width="100px;" alt="lbr77"/>
@@ -70,8 +79,6 @@
       <br />
       <a href="https://github.com/lbr77">Borui Li</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -114,6 +121,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
@@ -121,8 +130,6 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
