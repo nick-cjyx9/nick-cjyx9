@@ -4,7 +4,7 @@
 - 🧑‍🎓 I'm an undergraduate senior high student from 🇨🇳
 - 📧 E-mail: i@nickchen.top
 - ❓ Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
-- 🤜 I'm currently working on China College Entrance Examination
+- 🥰 I'm on my 3-month vacation
 
 
 ## Info
