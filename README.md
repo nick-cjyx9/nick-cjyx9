@@ -64,21 +64,14 @@
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lbr77">
-        <img src="https://avatars2.githubusercontent.com/u/53066066" width="100px;" alt="lbr77"/>
-      </a>
-      <br />
-      <a href="https://github.com/lbr77">Borui Li</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
       </a>
       <br />
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -121,8 +114,6 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
@@ -130,6 +121,8 @@
       <br />
       <a href="https://github.com/aquamarine5">海蓝咕咕鸽</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Leslie-Ke">
         <img src="https://avatars2.githubusercontent.com/u/172290709" width="100px;" alt="Leslie-Ke"/>
