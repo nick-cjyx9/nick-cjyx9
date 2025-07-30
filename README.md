@@ -1,10 +1,10 @@
 # Hi there! 👋
 
 - 👨‍🦯 I'm **Nick Chen**,also **cjyx9**.
-- 🧑‍🎓 I'm an undergraduate senior high student from 🇨🇳
+- 🧑‍🎓 I'm a freshman of JNU, now having my summer vacation after gaokao.
 - 📧 E-mail: i@nickchen.top
 - ❓ Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
-- 🥰 I'm on my 3-month vacation
+- 🎸 I'm focusing on learning to play guitar.
 
 
 ## Info
