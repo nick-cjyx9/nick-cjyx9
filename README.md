@@ -64,14 +64,21 @@
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yixinBC">
+        <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
+      </a>
+      <br />
+      <a href="https://github.com/yixinBC">yixinBC</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
       </a>
       <br />
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
@@ -114,6 +121,8 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
@@ -121,8 +130,13 @@
       <br />
       <a href="https://github.com/aquamarine5">海蓝咕咕鸽</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/Gent1eknife">
+        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
+    </td>
     <td align="center">
       <a href="https://github.com/Leslie-Ke">
         <img src="https://avatars2.githubusercontent.com/u/172290709" width="100px;" alt="Leslie-Ke"/>
