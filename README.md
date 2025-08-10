@@ -57,12 +57,21 @@
       <a href="https://github.com/czy0729">Chan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/NamesMT">
+        <img src="https://avatars2.githubusercontent.com/u/23612546" width="100px;" alt="NamesMT"/>
+      </a>
+      <br />
+      <a href="https://github.com/NamesMT">Trung Dang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
       </a>
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -70,8 +79,6 @@
       <br />
       <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -114,6 +121,8 @@
       <br />
       <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
@@ -121,8 +130,6 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
