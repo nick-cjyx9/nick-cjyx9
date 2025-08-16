@@ -138,6 +138,13 @@
       <a href="https://github.com/Gent1eknife">Gent1eknife</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alittlewhitey">
+        <img src="https://avatars2.githubusercontent.com/u/153435777" width="100px;" alt="alittlewhitey"/>
+      </a>
+      <br />
+      <a href="https://github.com/alittlewhitey">LittleWhite</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Leslie-Ke">
         <img src="https://avatars2.githubusercontent.com/u/172290709" width="100px;" alt="Leslie-Ke"/>
       </a>
