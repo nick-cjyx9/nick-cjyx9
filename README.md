@@ -22,6 +22,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -63,6 +70,8 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -70,8 +79,6 @@
       <br />
       <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AriDevK">
         <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
@@ -87,11 +94,25 @@
       <a href="https://github.com/EveSunMaple">SunMaple</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Lil-Ran">
+        <img src="https://avatars2.githubusercontent.com/u/109097535" width="100px;" alt="Lil-Ran"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lil-Ran">LilRan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
       </a>
       <br />
       <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hglong16">
+        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      </a>
+      <br />
+      <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
     <td align="center">
       <a href="https://github.com/powerfulyang">
@@ -100,12 +121,14 @@
       <br />
       <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/hglong16">
-        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      <a href="https://github.com/Cnily03">
+        <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
       </a>
       <br />
-      <a href="https://github.com/hglong16">Hoang Long</a>
+      <a href="https://github.com/Cnily03">TampooCat</a>
     </td>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
@@ -121,8 +144,6 @@
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
@@ -150,13 +171,6 @@
       </a>
       <br />
       <a href="https://github.com/alittlewhitey">LittleWhite</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leslie-Ke">
-        <img src="https://avatars2.githubusercontent.com/u/172290709" width="100px;" alt="Leslie-Ke"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leslie-Ke">Leslie-ke</a>
     </td>
   </tr>
 </table>
