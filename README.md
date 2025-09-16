@@ -131,13 +131,6 @@
       <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Smart-SangGe">
-        <img src="https://avatars2.githubusercontent.com/u/37489256" width="100px;" alt="Smart-SangGe"/>
-      </a>
-      <br />
-      <a href="https://github.com/Smart-SangGe">Junyong Liang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Tikas">
         <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
       </a>
@@ -171,6 +164,13 @@
       </a>
       <br />
       <a href="https://github.com/alittlewhitey">LittleWhite</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leslie-Ke">
+        <img src="https://avatars2.githubusercontent.com/u/172290709" width="100px;" alt="Leslie-Ke"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leslie-Ke">Leslie-ke</a>
     </td>
   </tr>
 </table>
