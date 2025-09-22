@@ -84,7 +84,7 @@
         <img src="https://avatars2.githubusercontent.com/u/109097535" width="100px;" alt="Lil-Ran"/>
       </a>
       <br />
-      <a href="https://github.com/Lil-Ran">LilRan</a>
+      <a href="https://github.com/Lil-Ran">Shunran Lei</a>
     </td>
     <td align="center">
       <a href="https://github.com/EveSunMaple">
