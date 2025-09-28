@@ -73,18 +73,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AriDevK">
-        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
-      </a>
-      <br />
-      <a href="https://github.com/AriDevK">Ari Dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Lil-Ran">
         <img src="https://avatars2.githubusercontent.com/u/109097535" width="100px;" alt="Lil-Ran"/>
       </a>
       <br />
       <a href="https://github.com/Lil-Ran">Shunran Lei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AriDevK">
+        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
+      </a>
+      <br />
+      <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/EveSunMaple">
