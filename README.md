@@ -4,7 +4,7 @@
 - 🧑‍🎓 I'm a freshman of JNU.
 - 📧 E-mail: i@nickchen.top
 - ❓ Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
-- 💪 I'm focusing on my Freshman military training
+- 💪 I'm focusing on my web security learning
 
 
 ## Info
