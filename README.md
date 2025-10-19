@@ -166,11 +166,11 @@
       <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alittlewhitey">
-        <img src="https://avatars2.githubusercontent.com/u/153435777" width="100px;" alt="alittlewhitey"/>
+      <a href="https://github.com/CopperKoi">
+        <img src="https://avatars2.githubusercontent.com/u/91732947" width="100px;" alt="CopperKoi"/>
       </a>
       <br />
-      <a href="https://github.com/alittlewhitey">LittleWhite</a>
+      <a href="https://github.com/CopperKoi">CopperKoi</a>
     </td>
   </tr>
 </table>
