@@ -87,13 +87,6 @@
       <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EveSunMaple">
-        <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
-      </a>
-      <br />
-      <a href="https://github.com/EveSunMaple">SunMaple</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
       </a>
@@ -101,11 +94,11 @@
       <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/powerfulyang">
-        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
+      <a href="https://github.com/EveSunMaple">
+        <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
-      <a href="https://github.com/powerfulyang">非凡少年</a>
+      <a href="https://github.com/EveSunMaple">SunMaple</a>
     </td>
     <td align="center">
       <a href="https://github.com/hglong16">
@@ -113,6 +106,13 @@
       </a>
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/powerfulyang">
+        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
+      </a>
+      <br />
+      <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
     <td align="center">
       <a href="https://github.com/Cnily03">
@@ -166,11 +166,11 @@
       <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CopperKoi">
-        <img src="https://avatars2.githubusercontent.com/u/91732947" width="100px;" alt="CopperKoi"/>
+      <a href="https://github.com/alittlewhitey">
+        <img src="https://avatars2.githubusercontent.com/u/153435777" width="100px;" alt="alittlewhitey"/>
       </a>
       <br />
-      <a href="https://github.com/CopperKoi">CopperKoi</a>
+      <a href="https://github.com/alittlewhitey">LittleWhite</a>
     </td>
   </tr>
 </table>
