@@ -138,13 +138,6 @@
       <a href="https://github.com/WenqiOfficial">Chang Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Tikas">
-        <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tikas">Tikas</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
       </a>
@@ -152,11 +145,11 @@
       <a href="https://github.com/aquamarine5">海蓝色的咕咕鸽</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gent1eknife">
-        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
+      <a href="https://github.com/Tikas">
+        <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
       </a>
       <br />
-      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
+      <a href="https://github.com/Tikas">Tikas</a>
     </td>
     <td align="center">
       <a href="https://github.com/gubaiovo">
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/gubaiovo">GuBai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gent1eknife">
+        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
     </td>
     <td align="center">
       <a href="https://github.com/Kamiya721">
