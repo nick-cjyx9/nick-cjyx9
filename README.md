@@ -108,18 +108,18 @@
       <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hglong16">
-        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
-      </a>
-      <br />
-      <a href="https://github.com/hglong16">Hoang Long</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Cnily03">
         <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
       </a>
       <br />
       <a href="https://github.com/Cnily03">TampooCat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hglong16">
+        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
+      </a>
+      <br />
+      <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
       <br />
-      <a href="https://github.com/WenqiOfficial">Chang Li</a>
+      <a href="https://github.com/WenqiOfficial">Chang Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/aquamarine5">
