@@ -112,7 +112,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
       </a>
       <br />
-      <a href="https://github.com/Cnily03">TampooCat</a>
+      <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
     <td align="center">
       <a href="https://github.com/hglong16">
