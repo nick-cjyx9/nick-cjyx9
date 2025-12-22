@@ -152,18 +152,18 @@
       <a href="https://github.com/Tikas">Tikas</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gent1eknife">
-        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gubaiovo">
         <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
       </a>
       <br />
       <a href="https://github.com/gubaiovo">GuBai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gent1eknife">
+        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
     </td>
     <td align="center">
       <a href="https://github.com/Kamiya721">
