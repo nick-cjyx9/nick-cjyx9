@@ -131,6 +131,13 @@
       <a href="https://github.com/KuLiPai">KuLiPai</a>
     </td>
     <td align="center">
+      <a href="https://github.com/at-wr">
+        <img src="https://avatars2.githubusercontent.com/u/45558679" width="100px;" alt="at-wr"/>
+      </a>
+      <br />
+      <a href="https://github.com/at-wr">Alan Ye</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
@@ -164,13 +171,6 @@
       </a>
       <br />
       <a href="https://github.com/Gent1eknife">Gent1eknife</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kamiya721">
-        <img src="https://avatars2.githubusercontent.com/u/176594667" width="100px;" alt="Kamiya721"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kamiya721">KamiyaKina</a>
     </td>
   </tr>
 </table>
