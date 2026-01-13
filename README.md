@@ -84,7 +84,7 @@
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
       </a>
       <br />
-      <a href="https://github.com/alikia2x">alikia2x (寒寒)</a>
+      <a href="https://github.com/alikia2x">alikia2x</a>
     </td>
     <td align="center">
       <a href="https://github.com/AriDevK">
