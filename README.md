@@ -22,13 +22,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/BEPb">
-        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-      </a>
-      <br />
-      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -70,8 +63,6 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -79,6 +70,8 @@
       <br />
       <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Lil-Ran">
         <img src="https://avatars2.githubusercontent.com/u/109097535" width="100px;" alt="Lil-Ran"/>
@@ -121,8 +114,6 @@
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
@@ -130,6 +121,8 @@
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -171,6 +164,13 @@
       </a>
       <br />
       <a href="https://github.com/gubaiovo">GuBai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gent1eknife">
+        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
     </td>
   </tr>
 </table>
