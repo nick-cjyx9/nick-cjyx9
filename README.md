@@ -1,23 +1,7 @@
-# Hi there! 👋
+Hi there! I'm Nick, now an undergraduated intersted in web security and web development.
 
-- 👨‍🦯 I'm **Nick Chen**,also **cjyx9**.
-- 🧑‍🎓 I'm a freshman of JNU.
-- 📧 E-mail: i@nickchen.top
-- ❓ Ask me anything at [Discussions](https://github.com/nick-cjyx9/nick-cjyx9/discussions)
-- 💪 I'm focusing on my web security learning
+## Follwers
 
-
-## Info
-- **Github:** [@cjyx9](https://github.com/nick-cjyx9)
-- **Bangumi:** [bgm.tv/user/cjyx9](https://bgm.tv/user/cjyx9)
-- **Favorite motto:** 
-> Let the world change you and you can change the world
-- **Tech Stack**
-  
-  ![My Skills](https://skillicons.dev/icons?i=vue,js,ts,python,astro,workers)
-
-
-## Followers:
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
