@@ -6,6 +6,13 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/H-K-R">
         <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
       </a>
@@ -47,6 +54,8 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -54,8 +63,6 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       <br />
       <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -98,6 +105,8 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/hglong16">
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
@@ -105,14 +114,19 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       <br />
       <a href="https://github.com/hglong16">Hoang Long</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
       </a>
       <br />
       <a href="https://github.com/KuLiPai">KuLiPai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maxchang3">
+        <img src="https://avatars2.githubusercontent.com/u/36927158" width="100px;" alt="maxchang3"/>
+      </a>
+      <br />
+      <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
     <td align="center">
       <a href="https://github.com/at-wr">
@@ -141,20 +155,6 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       </a>
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gubaiovo">
-        <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
-      </a>
-      <br />
-      <a href="https://github.com/gubaiovo">GuBai</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Gent1eknife">
-        <img src="https://avatars2.githubusercontent.com/u/185935670" width="100px;" alt="Gent1eknife"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gent1eknife">Gent1eknife</a>
     </td>
   </tr>
 </table>
