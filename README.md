@@ -71,18 +71,18 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
       <a href="https://github.com/Lil-Ran">Shunran Lei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AriDevK">
-        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
-      </a>
-      <br />
-      <a href="https://github.com/AriDevK">Ari Dev</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AriDevK">
+        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
+      </a>
+      <br />
+      <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/powerfulyang">
