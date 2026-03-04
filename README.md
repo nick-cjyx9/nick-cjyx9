@@ -103,7 +103,7 @@ Hi there! I'm Nick, now an undergraduated intersted in web security and web deve
         <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
       </a>
       <br />
-      <a href="https://github.com/hglong16">Hoang Long</a>
+      <a href="https://github.com/hglong16">Tg Truong</a>
     </td>
   </tr>
   <tr>
