@@ -1,4 +1,6 @@
-Hi there! I'm Nick, now an undergraduated intersted in web security and web development.
+## Hi there!
+
+I'm Nick, an undergraduated intersted in web security and web development.
 
 ## Follwers
 
