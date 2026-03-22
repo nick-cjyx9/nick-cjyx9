@@ -73,6 +73,13 @@ I'm Nick, an undergraduated intersted in web security and web development.
       <a href="https://github.com/Lil-Ran">Shunran Lei</a>
     </td>
     <td align="center">
+      <a href="https://github.com/williambroberts">
+        <img src="https://avatars2.githubusercontent.com/u/123806743" width="100px;" alt="williambroberts"/>
+      </a>
+      <br />
+      <a href="https://github.com/williambroberts">William Roberts</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
@@ -100,6 +107,8 @@ I'm Nick, an undergraduated intersted in web security and web development.
       <br />
       <a href="https://github.com/powerfulyang">非凡少年</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Cnily03">
         <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
@@ -107,8 +116,6 @@ I'm Nick, an undergraduated intersted in web security and web development.
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -150,13 +157,6 @@ I'm Nick, an undergraduated intersted in web security and web development.
       </a>
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gubaiovo">
-        <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
-      </a>
-      <br />
-      <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
   </tr>
 </table>
