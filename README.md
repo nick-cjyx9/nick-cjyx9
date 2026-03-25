@@ -131,6 +131,13 @@ I'm Nick, an undergraduated intersted in web security and web development.
       <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Sanjeever">
+        <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sanjeever">Holata Seminole</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
@@ -150,13 +157,6 @@ I'm Nick, an undergraduated intersted in web security and web development.
       </a>
       <br />
       <a href="https://github.com/aquamarine5">海蓝色的咕咕鸽</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tikas">
-        <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tikas">Tikas</a>
     </td>
   </tr>
 </table>
