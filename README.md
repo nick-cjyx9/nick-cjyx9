@@ -7,6 +7,12 @@ I'm Nick, a web security and web development enthusiast.
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=fff)
 - Ask me anything at: <https://github.com/nick-cjyx9/nick-cjyx9/discussions>
 
+## Last Blog Posts
+
+<!--START_SECTION:blog-posts-->
+old-content
+<!--END_SECTION:blog-posts-->
+
 ## Follwers
 
 <!--START_SECTION:top-followers-->
@@ -166,3 +172,9 @@ I'm Nick, a web security and web development enthusiast.
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+## Coding Time Last Month
+
+<!--START_SECTION:waka-->
+old-content
+<!--END_SECTION:waka-->
