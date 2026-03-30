@@ -10,7 +10,11 @@ I'm Nick, a web security and web development enthusiast.
 ## Last Blog Posts
 
 <!--START_SECTION:blog-posts-->
-old-content
+-   2026-03-25 [浏览器缓存机制的滥用](https://nickchen.top/blog/abuse-of-browser-caches/?utm_source=GitHubProfile)
+-   2026-02-04 [阿里 CTF Writeups by Nick (JNSEC)](https://nickchen.top/blog/aliyunctf-wp/?utm_source=GitHubProfile)
+-   2026-02-03 [Discipline](https://nickchen.top/blog/discipline/?utm_source=GitHubProfile)
+-   2026-01-27 [N1CTF Junior 1/2 WriteUps by Nick (すとCTF中でいいのに。 )](https://nickchen.top/blog/n1ctf-junior-half-wp/?utm_source=GitHubProfile)
+-   2025-12-31 [Happy New Year&apos;s Day, my BestfriEnd.](https://nickchen.top/blog/happy-new-years-day-my-bestfriend/?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## Follwers
