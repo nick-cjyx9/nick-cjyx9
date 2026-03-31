@@ -1,7 +1,7 @@
 ## Hi there!
 
 <picture>
-<img align="right" width="40%" src="https://github-readme-stat.nickchen.top/api?username=nick-cjyx9&show_icons=true&theme=transparent" />
+  <img align="right" width="50%" src="https://github-readme-stat.nickchen.top/api?username=nick-cjyx9&show_icons=true&theme=transparent" />
 </picture>
 
 I'm Nick, a web security and web development enthusiast.
