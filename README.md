@@ -1,4 +1,6 @@
-## Hi there!
+![cover](./public/cover.jpeg)
+
+## Hi, there
 
 <picture>
   <img align="right" width="50%" src="https://github-readme-stat.nickchen.top/api?username=nick-cjyx9&show_icons=true&theme=transparent" />
