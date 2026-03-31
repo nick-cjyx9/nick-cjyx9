@@ -94,25 +94,11 @@ I'm Nick, a web security and web development enthusiast.
       <a href="https://github.com/Lil-Ran">Shunran Lei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/williambroberts">
-        <img src="https://avatars2.githubusercontent.com/u/123806743" width="100px;" alt="williambroberts"/>
-      </a>
-      <br />
-      <a href="https://github.com/williambroberts">William Roberts</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AriDevK">
-        <img src="https://avatars2.githubusercontent.com/u/42656298" width="100px;" alt="AriDevK"/>
-      </a>
-      <br />
-      <a href="https://github.com/AriDevK">Ari Dev</a>
     </td>
     <td align="center">
       <a href="https://github.com/powerfulyang">
@@ -128,15 +114,6 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hglong16">
-        <img src="https://avatars2.githubusercontent.com/u/83296144" width="100px;" alt="hglong16"/>
-      </a>
-      <br />
-      <a href="https://github.com/hglong16">Tg Truong</a>
-    </td>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -151,6 +128,8 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Sanjeever">
         <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
@@ -178,6 +157,27 @@ I'm Nick, a web security and web development enthusiast.
       </a>
       <br />
       <a href="https://github.com/aquamarine5">海蓝色的咕咕鸽</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tikas">
+        <img src="https://avatars2.githubusercontent.com/u/3396710" width="100px;" alt="Tikas"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tikas">Tikas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gubaiovo">
+        <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
+      </a>
+      <br />
+      <a href="https://github.com/gubaiovo">GuBai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kamiya721">
+        <img src="https://avatars2.githubusercontent.com/u/176594667" width="100px;" alt="Kamiya721"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kamiya721">KamiyaKina</a>
     </td>
   </tr>
 </table>
