@@ -101,13 +101,6 @@ I'm Nick, a web security and web development enthusiast.
       <a href="https://github.com/EveSunMaple">SunMaple</a>
     </td>
     <td align="center">
-      <a href="https://github.com/powerfulyang">
-        <img src="https://avatars2.githubusercontent.com/u/21997724" width="100px;" alt="powerfulyang"/>
-      </a>
-      <br />
-      <a href="https://github.com/powerfulyang">非凡少年</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Cnily03">
         <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
       </a>
@@ -128,8 +121,6 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Sanjeever">
         <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
@@ -137,6 +128,8 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/Sanjeever">Holata Seminole</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
@@ -178,6 +171,13 @@ I'm Nick, a web security and web development enthusiast.
       </a>
       <br />
       <a href="https://github.com/Kamiya721">KamiyaKina</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alittlewhitey">
+        <img src="https://avatars2.githubusercontent.com/u/153435777" width="100px;" alt="alittlewhitey"/>
+      </a>
+      <br />
+      <a href="https://github.com/alittlewhitey">LittleWhite</a>
     </td>
   </tr>
 </table>
