@@ -29,11 +29,11 @@ I'm Nick, a web security and web development enthusiast.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/H-K-R">
-        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="H-K-R"/>
+      <a href="https://github.com/humayrakhanomrime">
+        <img src="https://avatars2.githubusercontent.com/u/69351423" width="100px;" alt="humayrakhanomrime"/>
       </a>
       <br />
-      <a href="https://github.com/H-K-R">Humayra Khanom Rime</a>
+      <a href="https://github.com/humayrakhanomrime">Humayra Khanom Rime</a>
     </td>
     <td align="center">
       <a href="https://github.com/akirarika">
