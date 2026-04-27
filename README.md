@@ -43,6 +43,13 @@ I'm Nick, a web security and web development enthusiast.
       <a href="https://github.com/akirarika">akirarika</a>
     </td>
     <td align="center">
+      <a href="https://github.com/crazymanarmy">
+        <img src="https://avatars2.githubusercontent.com/u/97594758" width="100px;" alt="crazymanarmy"/>
+      </a>
+      <br />
+      <a href="https://github.com/crazymanarmy">crazyman</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sb-child">
         <img src="https://avatars2.githubusercontent.com/u/55868015" width="100px;" alt="sb-child"/>
       </a>
@@ -70,6 +77,8 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -77,8 +86,6 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -121,6 +128,8 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Sanjeever">
         <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
@@ -128,8 +137,6 @@ I'm Nick, a web security and web development enthusiast.
       <br />
       <a href="https://github.com/Sanjeever">Holata Seminole</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/at-wr">
         <img src="https://avatars2.githubusercontent.com/u/45558679" width="100px;" alt="at-wr"/>
@@ -171,13 +178,6 @@ I'm Nick, a web security and web development enthusiast.
       </a>
       <br />
       <a href="https://github.com/Kamiya721">KamiyaKina</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alittlewhitey">
-        <img src="https://avatars2.githubusercontent.com/u/153435777" width="100px;" alt="alittlewhitey"/>
-      </a>
-      <br />
-      <a href="https://github.com/alittlewhitey">LittleWhite</a>
     </td>
   </tr>
 </table>
