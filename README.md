@@ -9,7 +9,7 @@
 I'm Nick, a web security and web development enthusiast.
 
 - Using ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=fff)
-- Hack with [Arr3stY0u](https://ctftime.org/team/176468) and [JNSEC](https://jnsec.org/) in CTF games
+- Hack with [JNSEC](https://jnsec.org/) in CTF games
 - Ask me anything at: <https://github.com/nick-cjyx9/nick-cjyx9/discussions>
 
 
