@@ -16,11 +16,11 @@ I'm Nick, a web security and web development enthusiast.
 ## Last Blog Posts
 
 <!--START_SECTION:blog-posts-->
+-   2026-06-01 [DEFCON CTF Quals 2026 BirdBlog Write-Up: CSRF to sqli through parser differences](https://nickchen.top/blog/defcon-2026-web-birdblog-writeup/?utm_source=GitHubProfile)
 -   2026-05-17 [Daily AlpacaHack 2026/05/12 Iframe Sandbox WriteUp](https://nickchen.top/blog/daily-alpacahack-2026-05-12-iframe-sandbox-writeup/?utm_source=GitHubProfile)
 -   2026-03-25 [浏览器缓存机制的滥用](https://nickchen.top/blog/abuse-of-browser-caches/?utm_source=GitHubProfile)
 -   2026-02-04 [阿里 CTF Writeups by Nick (JNSEC)](https://nickchen.top/blog/aliyunctf-wp/?utm_source=GitHubProfile)
 -   2026-02-03 [Discipline](https://nickchen.top/blog/discipline/?utm_source=GitHubProfile)
--   2026-01-27 [N1CTF Junior 1/2 WriteUps by Nick (すとCTF中でいいのに。 )](https://nickchen.top/blog/n1ctf-junior-half-wp/?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ## Follwers
