@@ -173,11 +173,11 @@ I'm Nick, a web security and web development enthusiast.
       <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kamiya721">
-        <img src="https://avatars2.githubusercontent.com/u/176594667" width="100px;" alt="Kamiya721"/>
+      <a href="https://github.com/sadsnowcat">
+        <img src="https://avatars2.githubusercontent.com/u/235480369" width="100px;" alt="sadsnowcat"/>
       </a>
       <br />
-      <a href="https://github.com/Kamiya721">KamiyaKina</a>
+      <a href="https://github.com/sadsnowcat">sadsnowcat</a>
     </td>
   </tr>
 </table>
