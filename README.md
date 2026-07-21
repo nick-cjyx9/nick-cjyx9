@@ -1,5 +1,3 @@
-<!-- ![cover](./public/cover.jpeg) --＞
-
 ## Hi, there
 
 <picture>
