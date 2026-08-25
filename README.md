@@ -150,6 +150,13 @@ I'm Nick, a web security enthusiast.
       <a href="https://github.com/Sanjeever">Holata Seminole</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ChaoMixian">
+        <img src="https://avatars2.githubusercontent.com/u/149247415" width="100px;" alt="ChaoMixian"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChaoMixian">ChaoMixian</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/WenqiOfficial">
         <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
       </a>
@@ -169,13 +176,6 @@ I'm Nick, a web security enthusiast.
       </a>
       <br />
       <a href="https://github.com/Tikas">Tikas</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gubaiovo">
-        <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
-      </a>
-      <br />
-      <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
   </tr>
 </table>
