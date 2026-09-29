@@ -129,18 +129,18 @@ I'm Nick, a web security enthusiast.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/maxchang3">
-        <img src="https://avatars2.githubusercontent.com/u/36927158" width="100px;" alt="maxchang3"/>
-      </a>
-      <br />
-      <a href="https://github.com/maxchang3">Max Chang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
       </a>
       <br />
       <a href="https://github.com/aquamarine5">海蓝色的咕咕鸽</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maxchang3">
+        <img src="https://avatars2.githubusercontent.com/u/36927158" width="100px;" alt="maxchang3"/>
+      </a>
+      <br />
+      <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChaoMixian">
