@@ -4,10 +4,8 @@
   <img align="right" width="50%" src="https://github-readme-stat.nickchen.top/api?username=nick-cjyx9&show_icons=true&theme=transparent" />
 </picture>
 
-I'm Nick, a web security enthusiast.
-
-- Sophomore@[JNU](https://www.jiangnan.edu.cn)
-- Using ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=fff)
+- Sophomore[@JNU](https://www.jiangnan.edu.cn)
+- Currently interested in web client security and pyjails
 - Hacking for fun with [@r3kapig](https://github.com/r3kapig)
 - Ask me anything at: <https://github.com/nick-cjyx9/nick-cjyx9/discussions>
 
