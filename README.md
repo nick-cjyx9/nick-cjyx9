@@ -98,18 +98,18 @@
       <a href="https://github.com/Lil-Ran">Shunran Lei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HSwift">
-        <img src="https://avatars2.githubusercontent.com/u/18740745" width="100px;" alt="HSwift"/>
-      </a>
-      <br />
-      <a href="https://github.com/HSwift">Swift</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EveSunMaple">
         <img src="https://avatars2.githubusercontent.com/u/121652165" width="100px;" alt="EveSunMaple"/>
       </a>
       <br />
       <a href="https://github.com/EveSunMaple">SunMaple</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HSwift">
+        <img src="https://avatars2.githubusercontent.com/u/18740745" width="100px;" alt="HSwift"/>
+      </a>
+      <br />
+      <a href="https://github.com/HSwift">Swift</a>
     </td>
     <td align="center">
       <a href="https://github.com/Cnily03">
