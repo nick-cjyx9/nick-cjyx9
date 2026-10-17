@@ -61,12 +61,21 @@
       <a href="https://github.com/yjl9903">XLor</a>
     </td>
     <td align="center">
+      <a href="https://github.com/NotAFlightRisk">
+        <img src="https://avatars2.githubusercontent.com/u/23277273" width="100px;" alt="NotAFlightRisk"/>
+      </a>
+      <br />
+      <a href="https://github.com/NotAFlightRisk">Iain</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/czy0729">
         <img src="https://avatars2.githubusercontent.com/u/13514316" width="100px;" alt="czy0729"/>
       </a>
       <br />
       <a href="https://github.com/czy0729">Chan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
@@ -74,8 +83,6 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -118,6 +125,8 @@
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -125,8 +134,6 @@
       <br />
       <a href="https://github.com/KuLiPai">KuLiPai</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
@@ -168,13 +175,6 @@
       </a>
       <br />
       <a href="https://github.com/at-wr">Alan Ye</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WenqiOfficial">
-        <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
-      </a>
-      <br />
-      <a href="https://github.com/WenqiOfficial">Chang Lee</a>
     </td>
   </tr>
 </table>
