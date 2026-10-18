@@ -54,18 +54,18 @@
       <a href="https://github.com/sb-child">想出网名啦</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yjl9903">
-        <img src="https://avatars2.githubusercontent.com/u/30072175" width="100px;" alt="yjl9903"/>
-      </a>
-      <br />
-      <a href="https://github.com/yjl9903">XLor</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/NotAFlightRisk">
         <img src="https://avatars2.githubusercontent.com/u/23277273" width="100px;" alt="NotAFlightRisk"/>
       </a>
       <br />
       <a href="https://github.com/NotAFlightRisk">Iain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yjl9903">
+        <img src="https://avatars2.githubusercontent.com/u/30072175" width="100px;" alt="yjl9903"/>
+      </a>
+      <br />
+      <a href="https://github.com/yjl9903">XLor</a>
     </td>
     <td align="center">
       <a href="https://github.com/czy0729">
