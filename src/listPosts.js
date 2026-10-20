@@ -17,7 +17,7 @@ const getTagContent = (input, tag) => {
 
 const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map((match) => match[1]);
 
-const posts = items.slice(1, 6).map((item) => {
+const posts = items.slice(0, 5).map((item) => {
   const title = getTagContent(item, 'title');
   const link = getTagContent(item, 'link');
   const pubDate = getTagContent(item, 'pubDate');
