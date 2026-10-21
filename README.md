@@ -84,18 +84,18 @@
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yixinBC">
-        <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
-      </a>
-      <br />
-      <a href="https://github.com/yixinBC">yixinBC</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
       </a>
       <br />
       <a href="https://github.com/alikia2x">alikia2x</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yixinBC">
+        <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
+      </a>
+      <br />
+      <a href="https://github.com/yixinBC">yixinBC</a>
     </td>
     <td align="center">
       <a href="https://github.com/Lil-Ran">
