@@ -54,13 +54,6 @@
       <a href="https://github.com/sb-child">想出网名啦</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NotAFlightRisk">
-        <img src="https://avatars2.githubusercontent.com/u/23277273" width="100px;" alt="NotAFlightRisk"/>
-      </a>
-      <br />
-      <a href="https://github.com/NotAFlightRisk">Iain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yjl9903">
         <img src="https://avatars2.githubusercontent.com/u/30072175" width="100px;" alt="yjl9903"/>
       </a>
@@ -74,8 +67,6 @@
       <br />
       <a href="https://github.com/czy0729">Chan</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/NeKoOuO">
         <img src="https://avatars2.githubusercontent.com/u/111511925" width="100px;" alt="NeKoOuO"/>
@@ -83,6 +74,8 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -125,8 +118,6 @@
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -134,6 +125,8 @@
       <br />
       <a href="https://github.com/KuLiPai">KuLiPai</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
@@ -175,6 +168,13 @@
       </a>
       <br />
       <a href="https://github.com/at-wr">Alan Ye</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WenqiOfficial">
+        <img src="https://avatars2.githubusercontent.com/u/67701681" width="100px;" alt="WenqiOfficial"/>
+      </a>
+      <br />
+      <a href="https://github.com/WenqiOfficial">Chang Lee</a>
     </td>
   </tr>
 </table>
