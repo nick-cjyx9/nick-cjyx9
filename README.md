@@ -149,18 +149,18 @@
       <a href="https://github.com/cuijianzhuang">崔健壮</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sanjeever">
-        <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
-      </a>
-      <br />
-      <a href="https://github.com/Sanjeever">Holata Seminole</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/at-wr">
         <img src="https://avatars2.githubusercontent.com/u/45558679" width="100px;" alt="at-wr"/>
       </a>
       <br />
       <a href="https://github.com/at-wr">Alan Ye</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sanjeever">
+        <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sanjeever">Holata Seminole</a>
     </td>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
