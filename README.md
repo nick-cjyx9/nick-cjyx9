@@ -135,13 +135,6 @@
       <a href="https://github.com/maxchang3">Max Chang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChaoMixian">
-        <img src="https://avatars2.githubusercontent.com/u/149247415" width="100px;" alt="ChaoMixian"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChaoMixian">ChaoMixian</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cuijianzhuang">
         <img src="https://avatars2.githubusercontent.com/u/31424401" width="100px;" alt="cuijianzhuang"/>
       </a>
@@ -149,11 +142,18 @@
       <a href="https://github.com/cuijianzhuang">崔健壮</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ChaoMixian">
+        <img src="https://avatars2.githubusercontent.com/u/149247415" width="100px;" alt="ChaoMixian"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChaoMixian">ChaoMixian</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sanjeever">
         <img src="https://avatars2.githubusercontent.com/u/78210374" width="100px;" alt="Sanjeever"/>
       </a>
       <br />
-      <a href="https://github.com/Sanjeever">Holata Seminole</a>
+      <a href="https://github.com/Sanjeever">Sanjeev</a>
     </td>
     <td align="center">
       <a href="https://github.com/WenqiOfficial">
