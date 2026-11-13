@@ -105,18 +105,18 @@
       <a href="https://github.com/HSwift">Swift</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Cnily03">
-        <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
-      </a>
-      <br />
-      <a href="https://github.com/Cnily03">Wakaba Muki</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/aquamarine5">
         <img src="https://avatars2.githubusercontent.com/u/50990424" width="100px;" alt="aquamarine5"/>
       </a>
       <br />
       <a href="https://github.com/aquamarine5">海蓝色的咕咕鸽</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cnily03">
+        <img src="https://avatars2.githubusercontent.com/u/56472849" width="100px;" alt="Cnily03"/>
+      </a>
+      <br />
+      <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
     <td align="center">
       <a href="https://github.com/KuLiPai">
