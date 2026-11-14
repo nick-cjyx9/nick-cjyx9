@@ -26,6 +26,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/BEPb">
+        <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
+      </a>
+      <br />
+      <a href="https://github.com/BEPb">Andrej Marinchenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/akirarika">
         <img src="https://avatars2.githubusercontent.com/u/33272184" width="100px;" alt="akirarika"/>
       </a>
@@ -67,6 +74,8 @@
       <br />
       <a href="https://github.com/NeKoOuO">ɴᴇᴋᴏ</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alikia2x">
         <img src="https://avatars2.githubusercontent.com/u/87868889" width="100px;" alt="alikia2x"/>
@@ -74,8 +83,6 @@
       <br />
       <a href="https://github.com/alikia2x">alikia2x</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yixinBC">
         <img src="https://avatars2.githubusercontent.com/u/61578883" width="100px;" alt="yixinBC"/>
@@ -118,6 +125,8 @@
       <br />
       <a href="https://github.com/Cnily03">Wakaba Muki</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/KuLiPai">
         <img src="https://avatars2.githubusercontent.com/u/94775075" width="100px;" alt="KuLiPai"/>
@@ -125,8 +134,6 @@
       <br />
       <a href="https://github.com/KuLiPai">KuLiPai</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/maxchang3">
         <img src="https://avatars2.githubusercontent.com/u/36927158" width="100px;" alt="maxchang3"/>
@@ -168,13 +175,6 @@
       </a>
       <br />
       <a href="https://github.com/WenqiOfficial">Chang Lee</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gubaiovo">
-        <img src="https://avatars2.githubusercontent.com/u/81070605" width="100px;" alt="gubaiovo"/>
-      </a>
-      <br />
-      <a href="https://github.com/gubaiovo">GuBai</a>
     </td>
   </tr>
 </table>
